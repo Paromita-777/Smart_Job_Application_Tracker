@@ -1,0 +1,1 @@
+export  const DB_NAME :string = "JOB_APPLICATION_TRACKER";
